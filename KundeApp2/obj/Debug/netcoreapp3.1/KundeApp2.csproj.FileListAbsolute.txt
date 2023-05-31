@@ -1,0 +1,1226 @@
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/HalloVerden/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/HalloVerden/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-medDB-Mac/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Documents/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.exe
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Tor/Downloads/KundeApp2-CRUD-Task/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.File.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.Async.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.deps.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.runtimeconfig.dev.json
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Castle.Core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Extensions.Logging.File.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Formatting.Compact.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.Async.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/Serilog.Sinks.RollingFile.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csprojAssemblyReference.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfoInputs.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.AssemblyInfo.cs
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.csproj.CopyComplete
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/staticwebassets/KundeApp2.StaticWebAssets.xml
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.dll
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.pdb
+/Users/tor/Downloads/KundeApp2-CRUD-3-normalform 2/KundeApp2-med-DB 2/KundeApp2/obj/Debug/netcoreapp3.1/KundeApp2.genruntimeconfig.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.StaticWebAssets.xml
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.exe
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.deps.json
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.runtimeconfig.json
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.runtimeconfig.dev.json
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\KundeApp2.pdb
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.csproj.AssemblyReference.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.AssemblyInfoInputs.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.AssemblyInfo.cs
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.csproj.CoreCompileInputs.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\staticwebassets\KundeApp2.StaticWebAssets.Manifest.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\staticwebassets\KundeApp2.StaticWebAssets.Pack.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.KundeApp2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.KundeApp2.props
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.KundeApp2.props
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.KundeApp2.props
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.RazorTargetAssemblyInfo.cache
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.csproj.CopyComplete
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.dll
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.pdb
+C:\Users\him-d\Desktop\KundeApp2-med-DB 2\KundeApp2\obj\Debug\netcoreapp3.1\KundeApp2.genruntimeconfig.cache

@@ -1,0 +1,57 @@
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.deps.json
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.runtimeconfig.json
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.runtimeconfig.dev.json
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.dll
+/Users/tor/Projects/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.pdb
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.csproj.CoreCompileInputs.cache
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.AssemblyInfoInputs.cache
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.AssemblyInfo.cs
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.RazorTargetAssemblyInfo.cache
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/staticwebassets/HalloVerden.StaticWebAssets.Manifest.cache
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/staticwebassets/HalloVerden.StaticWebAssets.xml
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.dll
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.pdb
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.genruntimeconfig.cache
+/Users/tor/Projects/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.csprojAssemblyReference.cache
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.exe
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.deps.json
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.runtimeconfig.json
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.runtimeconfig.dev.json
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.dll
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.pdb
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.csproj.CoreCompileInputs.cache
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.AssemblyInfoInputs.cache
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.AssemblyInfo.cs
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.RazorTargetAssemblyInfo.cache
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/staticwebassets/HalloVerden.StaticWebAssets.Manifest.cache
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/staticwebassets/HalloVerden.StaticWebAssets.xml
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.dll
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.pdb
+C:/Users/Tor/OneDrive - OsloMet/3.Web applikasjoner/Prosjekter/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.genruntimeconfig.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.deps.json
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.runtimeconfig.json
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.runtimeconfig.dev.json
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.dll
+/Users/tor/Downloads/HalloVerden/HalloVerden/bin/Debug/netcoreapp3.1/HalloVerden.pdb
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.csprojAssemblyReference.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.csproj.CoreCompileInputs.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.MvcApplicationPartsAssemblyInfo.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.AssemblyInfoInputs.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.AssemblyInfo.cs
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.RazorTargetAssemblyInfo.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/staticwebassets/HalloVerden.StaticWebAssets.Manifest.cache
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/staticwebassets/HalloVerden.StaticWebAssets.xml
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.dll
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.pdb
+/Users/tor/Downloads/HalloVerden/HalloVerden/obj/Debug/netcoreapp3.1/HalloVerden.genruntimeconfig.cache
